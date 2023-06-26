@@ -1,10 +1,11 @@
+# Codesandbox
+https://codesandbox.io/p/github/manish-patil/react-undo-redo/master
+
 # Application Description
 
 A React app to test Reacts Provider Pattern and Command Pattern to undo/redo actions.
 
 ![Alt text](Screenshot.png?raw=true 'Title')
-
-| codesandbox | https://codesandbox.io/p/github/manish-patil/react-undo-redo/master |
 
 # Getting Started with Create React App
 
